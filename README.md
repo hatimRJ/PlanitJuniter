@@ -28,7 +28,7 @@
 
 ## **How To Use**
 ### **Clone Repository**
-> `$ git clone https://github.com/hatimRJ/WestpacKiwisaver.git`
+> `$ git clone https://github.com/hatimRJ/PlanitJupiter.git`
 
 ### **Configuration Files**
 You can change values for your case.
