@@ -37,6 +37,7 @@ You can change values for your case.
     > Configuring log4j involves assigning the Level, defining Appender, and specifying Layout objects in a configuration file.
 2. [selenide.properties](src/test/resources/selenide.properties)<br/>
     > Configuration settings for Selenide default browser. Settings can be set either via system property or programmatically.
+    > Set application base URL. example: selenide.baseUrl=http://jupiter.cloud.planittesting.com
 
 ### **Run Tests With Gradle**
 > `./gradlew clean test`<br/>
