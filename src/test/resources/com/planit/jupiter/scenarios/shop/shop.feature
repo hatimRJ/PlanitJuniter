@@ -3,6 +3,7 @@ Feature: Verify Jupiter Shopping cart functionality
     Background:
         Given User is on shop page
 
+    @ShopTests
     Scenario: Shop items and validate cart
         Given User clicks to buy products
             | quantity | product      |
